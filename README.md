@@ -3,3 +3,5 @@
 # `gbtcal` Notebook
 
 A Jupyter Notebook explaining the "decoding" process for DCR data.
+
+See `gbtcal-nb.ipynb`, or click the badge above for an interactive version.
